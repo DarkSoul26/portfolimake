@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Sanchit Kalsi",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe Designing",
+    "image": "profilepic.jpg",
+    "bio": "I’m currently pursuing Information Technology at PICT, Pune. Ask me anything, and I'll try to answer it to the fullest. Exploring whatever I find interesting. I’m currently learning Data Structures, and Algorithms, and Web Development. 2021 Goals: Contribute to Open Source projects and explore new technologies. Fun fact: I love graphic designing and playing basketball.",
+    "contactmessage": "Reach me out by entering the following details!",
+    "email": "sanchitkalsi@gmail.com",
+    "phone": "+91 962794****",
+    "address": {
+      "street": "",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": ""
+    },
+    "website": "https://www.linkedin.com/in/sanchit-k-09a172199/",
+    "resumedownload": "https://1drv.ms/w/s!AldTnkhjLrB3jTxE7nu2WLdNA0ds",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanchit-k-09a172199/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/KalsiSanchit",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DarkSoul26",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Pune Institute of Computer Technology",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "July 2019 - Present",
+        "description": "Learning stage but not giving up age"
+      },
+      {
+        "school": "The Lexicon International School, Wagholi, Pune",
+        "degree": "12th Class",
+        "graduated": "May 2017 - May 2019",
+        "description": "Passed 12th with 94%"
+      }
+    ],
+    "work": [
+      {
+        "company": "DEBSOC, PICT",
+        "title": "Design Board Member",
+        "years": "Apr 2021 - Present",
+        "description": "Work together design together"
+      },
+      {
+        "company": "Entrepreneurship and Development Cell, PICT",
+        "title": "Head of Design",
+        "years": "Feb 2021 - Present",
+        "description": "No work load, just my wish to create amazing designs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Flutter",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "55%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "90%"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "level": "85%"
+      },
+      {
+        "name": "Android Development",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Raksha",
+        "category": "",
+        "image": "raksha.png",
+        "url": "https://lit-plains-22827.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Learning with Sanchit has been AWESOME, he makes learning different things so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Rashi Singh"
+      }
+    ]
+  }
+}
