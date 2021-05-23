@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://www.linkedin.com/in/sanchit-k-09a172199/",
-    "resumedownload": "https://drive.google.com/file/d/1Gv2opPbQWC5JiyFvu1BdpM7QTpGel6qw/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1HZBG1lbljdZifyuOSUmlHaBsWBbGEd-A/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -58,10 +58,28 @@
         "description": "Work together design together"
       },
       {
+        "company": "DEBSOC, PICT",
+        "title": "Co-Executive of IAC (Internal Affairs Committee)",
+        "years": "Jan 2021 - Present",
+        "description": "Handling the internal affairs committee and the work under the club for the college."
+      },
+      {
         "company": "Entrepreneurship and Development Cell, PICT",
         "title": "Head of Design",
         "years": "Feb 2021 - Present",
         "description": "No work load, just my wish to create amazing designs"
+      },
+      {
+        "company": "PASC, PICT",
+        "title": "App Team Member",
+        "years": "Nov 2019 - Present",
+        "description": "Member of PICT ACM Student Chapter."
+      },
+      {
+        "company": "PCSB, PICT",
+        "title": "App Team Member",
+        "years": "Jan 2021 - Present",
+        "description": "Member of PICT CSI Student Branch."
       }
     ],
     "achievements": [

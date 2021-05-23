@@ -40,13 +40,7 @@ const Resume = ({ data }) => {
       );
     });
     var skills = data.skills.map(function (skills) {
-      var className = "bar-expand " + skills.name.toLowerCase();
-      // const [level, setCompleted] = useState(i);
-      // i++;
-      // useEffect(() => {
-      //   setInterval(() => setCompleted(Math.floor(Math.random() * 100) + 1), 2000);
-      // }, []);
-      
+      var className = "bar-expand " + skills.name.toLowerCase();   
       return (
         <li key={skills.name}>
           <span style={{ width: skills.level }} level={skills.level} className={className}></span>
@@ -91,7 +85,7 @@ const Resume = ({ data }) => {
 
         <div className="nine columns main-col">{achievements}</div>
       </div>
-      
+
       <div className="row skill">
         <div className="three columns header-col">
           <h1>
