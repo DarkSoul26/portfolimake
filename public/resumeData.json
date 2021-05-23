@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "https://www.linkedin.com/in/sanchit-k-09a172199/",
-    "resumedownload": "https://1drv.ms/w/s!AldTnkhjLrB3jTxE7nu2WLdNA0ds",
+    "resumedownload": "https://drive.google.com/file/d/1Gv2opPbQWC5JiyFvu1BdpM7QTpGel6qw/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -62,6 +62,33 @@
         "title": "Head of Design",
         "years": "Feb 2021 - Present",
         "description": "No work load, just my wish to create amazing designs"
+      }
+    ],
+    "achievements": [
+      {
+        "place": "Gold Badge (5 Stars)",
+        "platform": "HackerRank",
+        "description": "C++ | Java | Python | Problem Solving"
+      },
+      {
+        "place": "1st Position",
+        "platform": "Credenz Live' 21, PICT IEEE Student Branch",
+        "description": "Pixelate: Digital Designing Competition"
+      },
+      {
+        "place": "2nd Position",
+        "platform": "Pulzion' 21, PICT ACM Student Chapter",
+        "description": "Electroquest: Electronic Skills Competition"
+      },
+      {
+        "place": "Certificate, Badge, and Swags",
+        "platform": "Google Cloud Program",
+        "description": "Training on Qwiklabs for DSC members"
+      },
+      {
+        "place": "2nd Position",
+        "platform": "Singhad Backetball Tournament",
+        "description": "By PICT Basketball Team"
       }
     ],
     "skills": [
