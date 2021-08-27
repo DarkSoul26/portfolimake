@@ -39,6 +39,25 @@ const Resume = ({ data }) => {
         </div>
       );
     });
+    var por = data.por.map(function (por) {
+      return (
+        <div key={por.company}>
+          <h3>{por.company}</h3>
+          <p className="info">
+            {por.title}
+            <span>&bull;</span> <em className="date">{por.years}</em>
+          </p>
+          <p>{por.description}</p>
+        </div>
+      );
+    });
+    var course = data.course.map(function (course) {
+      return (
+        <div key={course.work}>
+          <h4>{course.work}</h4>
+        </div>
+      );
+    });
     var skills = data.skills.map(function (skills) {
       var className = "bar-expand " + skills.name.toLowerCase();   
       return (
@@ -69,11 +88,31 @@ const Resume = ({ data }) => {
       <div className="row work">
         <div className="three columns header-col">
           <h1>
-            <span>Work</span>
+            <span>Work Experience</span>
           </h1>
         </div>
 
         <div className="nine columns main-col">{work}</div>
+      </div>
+
+      <div className="row work">
+        <div className="three columns header-col">
+          <h1>
+            <span>Responsibilities</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">{por}</div>
+      </div>
+
+      <div className="row work">
+        <div className="three columns header-col">
+          <h1>
+            <span>Courseworks</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">{course}</div>
       </div>
 
       <div className="row achievements">
