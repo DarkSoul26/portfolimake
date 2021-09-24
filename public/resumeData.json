@@ -122,6 +122,11 @@
       },
       {
         "place": "2nd Position",
+        "platform": "Radiance' 21, PICT ACM Student Chapter",
+        "description": "App Dev: Develop An Application For A Good Cause"
+      },
+      {
+        "place": "2nd Position",
         "platform": "Pulzion' 21, PICT ACM Student Chapter",
         "description": "Electroquest: Electronic Skills Competition"
       },
@@ -195,6 +200,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Book Geeks",
+        "category": "",
+        "image": "book_geeks.png",
+        "url": ""
+      },
       {
         "title": "Raksha",
         "category": "",

@@ -8,7 +8,7 @@ const Portfolio = ({ data }) => {
       document.getElementById("portfolio").setAttribute("align", "center");
       return (
         <div key={projects.title} className="columns portfolio-item">
-          <div className="item-wrap">
+          <div className="item-wrap" style={{boxShadow: "5px 5px 5px #9E9E9E"}}>
             <a href={projects.url} title={projects.title}>
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
