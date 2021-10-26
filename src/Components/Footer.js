@@ -22,8 +22,8 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
             © 2021 all rights reserved by{" "}
-              <a title="Sanchu" href="https://www.linkedin.com/in/sanchit-k-09a172199/">
-              <h5>Sanchit Kalsi a.k.a. darksoul26</h5>
+              <a title="Name" href="">
+              <h5>Your Name</h5>
               </a>
             </li>
           </ul>

@@ -1,35 +1,35 @@
 {
   "main": {
-    "name": "Sanchit Kalsi",
-    "occupation": "Student",
-    "description": "I eat, sleep and breathe Designing",
-    "image": "profilepic.jpg",
-    "bio": "I’m currently pursuing Information Technology at PICT, Pune. Ask me anything, and I'll try to answer it to the fullest. Exploring whatever I find interesting. I’m currently learning Data Structures, and Algorithms, and Web Development. 2021 Goals: Contribute to Open Source projects and explore new technologies. Fun fact: I love graphic designing and playing basketball.",
+    "name": "Your Name",
+    "occupation": "Occupation",
+    "description": "Description",
+    "image": "profilepic.png",
+    "bio": "About Yourself",
     "contactmessage": "Reach me out by entering the following details!",
-    "email": "sanchitkalsi@gmail.com",
-    "phone": "+91-9627948091",
+    "email": "Your Email",
+    "phone": "Your Phone",
     "address": {
-      "street": "",
-      "city": "Pune",
-      "state": "Maharashtra",
-      "zip": ""
+      "street": "Street",
+      "city": "City",
+      "state": "State",
+      "zip": "Pincode"
     },
-    "website": "https://www.linkedin.com/in/sanchit-k-09a172199/",
-    "resumedownload": "https://drive.google.com/file/d/18OQsKZkcG6TX_wBmZIKx9DtSSfR-C44a/view?usp=sharing",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/sanchit-k-09a172199/",
+        "url": "",
         "className": "fa fa-linkedin"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/KalsiSanchit",
+        "url": "",
         "className": "fa fa-twitter"
       },
       {
         "name": "github",
-        "url": "https://github.com/DarkSoul26",
+        "url": "",
         "className": "fa fa-github"
       }
     ]
@@ -38,188 +38,104 @@
     "skillmessage": "Learning how to learn is life's most important skill!",
     "education": [
       {
-        "school": "Pune Institute of Computer Technology",
-        "degree": "Bachelor's Degree, Information Technology",
-        "graduated": "July 2019 - Present",
-        "description": "Learning stage but not giving up age - 9.5 C.G.P.A."
+        "school": "School Name 1",
+        "degree": "Degree",
+        "graduated": "School Period",
+        "description": "Description"
       },
       {
-        "school": "The Lexicon International School, Wagholi, Pune",
-        "degree": "12th Class",
-        "graduated": "May 2017 - May 2019",
-        "description": "Maybe a bit lucky, passed 12th with 94%"
+        "school": "School Name 2",
+        "degree": "Degree",
+        "graduated": "School Period",
+        "description": "Description"
       }
     ],
     "work": [
       {
-        "company": "Elevate Lab, California",
-        "title": "Software Engineering Intern",
-        "years": "July 2021 - Present",
-        "description": "Transitioning original website onto a custom full-stack solution."
+        "company": "Company Name 1",
+        "title": "Title",
+        "years": "Time Period",
+        "description": "Description"
+      },
+      {
+        "company": "Company Name 2",
+        "title": "Title",
+        "years": "Time Period",
+        "description": "Description"
       }
     ],
     "por": [
       {
-        "company": "DEBSOC, PICT",
-        "title": "Design Board Member",
-        "years": "Apr 2021 - Present",
-        "description": "Work together - design together"
+        "company": "Company Name 1",
+        "title": "Title",
+        "years": "Time Period",
+        "description": "Description"
       },
       {
-        "company": "DEBSOC, PICT",
-        "title": "Co-Executive of IAC (Internal Affairs Committee)",
-        "years": "Jan 2021 - Present",
-        "description": "Manage internal affairs committee and working under the club which is responsible for the personality development of every member."
-      },
-      {
-        "company": "Entrepreneurship and Development Cell, PICT",
-        "title": "Head of Design",
-        "years": "Feb 2021 - Present",
-        "description": "No work load, just my wish to create amazing designs"
-      },
-      {
-        "company": "PASC, PICT",
-        "title": "App Team Member",
-        "years": "Nov 2019 - Present",
-        "description": "Member of PICT ACM Student Chapter."
-      },
-      {
-        "company": "PCSB, PICT",
-        "title": "App Team Member",
-        "years": "Jan 2021 - Present",
-        "description": "Member of PICT CSI Student Branch."
+        "company": "Company Name 2",
+        "title": "Title",
+        "years": "Time Period",
+        "description": "Description"
       }
     ],
     "course": [
       {
-        "work": "Data Structures"
+        "work": "Coursework Name 1"
       },
       {
-        "work": "Object Oriented Programming"
-      },
-      {
-        "work": "Computer Networks"
-      },
-      {
-        "work": "Database Management System"
+        "work": "Coursework Name 2"
       }
     ],
     "achievements": [
       {
-        "place": "Gold Badge (5 Stars)",
-        "platform": "HackerRank",
-        "description": "C++ | Java | Python | Problem Solving"
+        "place": "Name of the 1st Achievement",
+        "platform": "Platform 1",
+        "description": "Description"
       },
       {
-        "place": "1st Position",
-        "platform": "Xenia' 21, PICT CSI Student Branch",
-        "description": "Circuitron: The Ultimate Circuit Designing Competition"
-      },
-      {
-        "place": "1st Position",
-        "platform": "Credenz Live' 21, PICT IEEE Student Branch",
-        "description": "Pixelate: Digital Designing Competition"
-      },
-      {
-        "place": "2nd Position",
-        "platform": "Radiance' 21, PICT ACM Student Chapter",
-        "description": "App Dev: Develop An Application For A Good Cause"
-      },
-      {
-        "place": "2nd Position",
-        "platform": "Pulzion' 21, PICT ACM Student Chapter",
-        "description": "Electroquest: Electronic Skills Competition"
-      },
-      {
-        "place": "Certificate, Badge, and Swags",
-        "platform": "Google Cloud Program",
-        "description": "Training on Qwiklabs for DSC members"
-      },
-      {
-        "place": "Selection for the Semi-Final Round",
-        "platform": "NASA Space Apps Challenge - Hackathon",
-        "description": "Made an influential project: ECO-LUTION"
-      },
-      {
-        "place": "Participated",
-        "platform": "HackNITR 2.0 - Hackathon ",
-        "description": "Made a crucial project: RAKSHA"
-      },
-      {
-        "place": "2nd Position",
-        "platform": "Singhad Basketball Tournament",
-        "description": "By PICT Basketball Team"
+        "place": "Name of the 2nd Achievement",
+        "platform": "Platform 2",
+        "description": "Description"
       }
     ],
     "skills": [
       {
-        "name": "Java",
+        "name": "Skill Name 1",
         "level": "50%"
       },
       {
-        "name": "C++",
-        "level": "60%"
-      },
-      {
-        "name": "Flutter",
-        "level": "70%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "55%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "60%"
-      },
-      {
-        "name": "Node.js",
-        "level": "60%"
-      },
-      {
-        "name": "Express.js",
+        "name": "Skill Name 2",
         "level": "50%"
-      },
-      {
-        "name": "Adobe Photoshop",
-        "level": "90%"
-      },
-      {
-        "name": "Adobe Illustrator",
-        "level": "85%"
-      },
-      {
-        "name": "Android Development",
-        "level": "85%"
-      },
-      {
-        "name": "Web Development",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Book Geeks",
+        "title": "Project Name 1",
         "category": "",
-        "image": "book_geeks.png",
+        "image": "project1.png",
         "url": ""
       },
       {
-        "title": "Raksha",
+        "title": "Project Name 2",
         "category": "",
-        "image": "raksha.png",
-        "url": "https://lit-plains-22827.herokuapp.com/"
+        "image": "project2.png",
+        "url": ""
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Learning with Sanchit has been AWESOME, he makes learning different things so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Rashi Singh"
+        "text": "Testimonial Description 1",
+        "user": "Name of the person"
+      },
+      {
+        "text": "Testimonial Description 2",
+        "user": "Name of the person"
       }
+
     ]
   }
 }
