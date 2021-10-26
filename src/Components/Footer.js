@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             <li>
             © 2021 all rights reserved by{" "}
               <a title="Name" href="">
-              <h5>Your Name</h5>
+              <h5>Sanchit Kalsi a.k.a. darksoul26</h5>
               </a>
             </li>
           </ul>
